@@ -7,7 +7,6 @@ from MyDecryptECC import decrypt_data_ecc
 
 # Pip section
 # pip install cryptography
-
 # Start
 if __name__ == '__main__':
     print('Welcome to my first Python application. '
