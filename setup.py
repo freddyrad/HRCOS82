@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='ResearchArtifact34599304',
-    version='1',
-    packages=[''],
+    version='1.1',
+    packages=[],
     url='',
     license='',
     author='Freddy Rademeyer',
